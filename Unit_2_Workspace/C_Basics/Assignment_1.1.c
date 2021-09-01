@@ -1,8 +1,7 @@
 /*
- * Assignment_1.1.c
- *
- *  Created on: Sep 2, 2021
- *      Author: abdel
+ * File Name: Assignment_1.1.c
+ * Created on: Sep 2, 2021
+ * Author: Abdelrahman Sameh
  */
 
 /*EX1:
