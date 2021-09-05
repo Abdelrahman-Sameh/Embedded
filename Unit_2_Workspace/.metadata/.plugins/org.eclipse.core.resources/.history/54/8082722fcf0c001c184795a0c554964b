@@ -1,0 +1,20 @@
+/*
+ * Assignment_2.3.c
+ *
+ *  Created on: Sep 3, 2021
+ *      Author: abdel
+ */
+
+#include <stdio.h>
+void main(){
+
+	int character;
+	printf("Enter an integer you want to check: \n");
+	fflush(stdin); fflush(stdout);
+	scanf("%c", &character);
+
+	if(character==a || e || o || i || u){
+		printf("%c is even.\n", character);
+	}
+	else printf("%c is odd.\n", character);
+}

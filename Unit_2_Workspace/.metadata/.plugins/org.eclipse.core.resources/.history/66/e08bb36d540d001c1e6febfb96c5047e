@@ -1,0 +1,13 @@
+/*
+ * test.c
+ *
+ *  Created on: Sep 4, 2021
+ *      Author: abdel
+ */
+
+#include <stdio.h>
+void main(){
+	int a=0;
+	a = (a==(a==1));
+	printf("%d",a);
+}

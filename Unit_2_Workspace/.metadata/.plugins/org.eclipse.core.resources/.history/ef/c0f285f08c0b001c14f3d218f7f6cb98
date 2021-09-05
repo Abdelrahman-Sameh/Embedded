@@ -1,0 +1,12 @@
+/*
+ * Assignment_1.3.c
+ *
+ *  Created on: Sep 2, 2021
+ *      Author: abdel
+ */
+
+#include <stdio.h>
+void main(){
+
+	printf("Hello!");
+}

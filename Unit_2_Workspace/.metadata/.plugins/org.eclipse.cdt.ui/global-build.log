@@ -1,0 +1,1393 @@
+18:09:47 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.2 ****
+Info: Internal Builder is used for build
+gcc -o C_Basics_Assignment_2.2.exe Assignment_2.2.o 
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+18:12:55 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.2.o "..\\Assignment_2.2.c" 
+..\Assignment_2.2.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.2.c: In function 'main':
+..\Assignment_2.2.c:25:72: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+   25 |        ?(printf("%c is a vowel.\n", character)):("%c is a consonant.\n", character);
+      |                                                                        ^
+gcc -o C_Basics_Assignment_2.2.exe Assignment_2.2.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+18:13:44 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.2.o "..\\Assignment_2.2.c" 
+..\Assignment_2.2.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.2.exe Assignment_2.2.o 
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+18:14:26 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.2.o "..\\Assignment_2.2.c" 
+..\Assignment_2.2.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.2.exe Assignment_2.2.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+18:16:51 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.2.o "..\\Assignment_2.2.c" 
+..\Assignment_2.2.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.2.exe Assignment_2.2.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:07:07 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+19:07:24 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:08:27 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:09:40 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:10:13 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:19:04 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.3.c: In function 'main':
+..\Assignment_2.3.c:17:47: error: expected ';' before '}' token
+   17 |   else printf("Largest number = %d", number_3)
+      |                                               ^
+      |                                               ;
+   18 |  }
+      |  ~                                             
+..\Assignment_2.3.c:20:46: error: expected ';' before '}' token
+   20 |  else printf("Largest number = %d", number_3)
+      |                                              ^
+      |                                              ;
+   21 | }
+      | ~                                             
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:19:22 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.3.c: In function 'main':
+..\Assignment_2.3.c:17:47: error: expected ';' before '}' token
+   17 |   else printf("Largest number = %d", number_3)
+      |                                               ^
+      |                                               ;
+   18 |  }
+      |  ~                                             
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+19:19:33 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.3.o "..\\Assignment_2.3.c" 
+..\Assignment_2.3.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.3.exe Assignment_2.3.o 
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+19:28:51 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.4.o "..\\Assignment_2.4.c" 
+..\Assignment_2.4.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.4.c: In function 'main':
+..\Assignment_2.4.c:14:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   14 |  if(number > 0) printf("%d is positive\n");
+      |                         ~^
+      |                          |
+      |                          int
+..\Assignment_2.4.c:14:26: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+..\Assignment_2.4.c:15:32: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+   15 |  else if (number < 0) printf("%d is negative\n");
+      |                               ~^
+      |                                |
+      |                                int
+..\Assignment_2.4.c:15:32: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+gcc -o C_Basics_Assignment_2.4.exe Assignment_2.4.o 
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+19:29:20 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.4.o "..\\Assignment_2.4.c" 
+..\Assignment_2.4.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.4.c: In function 'main':
+..\Assignment_2.4.c:14:26: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   14 |  if(number > 0) printf("%f is positive\n");
+      |                         ~^
+      |                          |
+      |                          double
+..\Assignment_2.4.c:14:26: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+..\Assignment_2.4.c:15:32: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+   15 |  else if (number < 0) printf("%f is negative\n");
+      |                               ~^
+      |                                |
+      |                                double
+..\Assignment_2.4.c:15:32: warning: format '%f' expects a matching 'double' argument [-Wformat=]
+gcc -o C_Basics_Assignment_2.4.exe Assignment_2.4.o 
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+19:29:58 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.4.o "..\\Assignment_2.4.c" 
+..\Assignment_2.4.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.4.exe Assignment_2.4.o 
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+19:30:24 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.4.o "..\\Assignment_2.4.c" 
+..\Assignment_2.4.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.4.exe Assignment_2.4.o 
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.4
+19:32:44 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.4.o "..\\Assignment_2.4.c" 
+..\Assignment_2.4.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.4.exe Assignment_2.4.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+05:36:58 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.5.o "..\\Assignment_2.5.c" 
+..\Assignment_2.5.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main (){
+      |      ^~~~
+..\Assignment_2.5.c: In function 'main':
+..\Assignment_2.5.c:16:12: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   16 |   printf("%c is an alphabet\n");
+      |           ~^
+      |            |
+      |            int
+..\Assignment_2.5.c:16:12: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+..\Assignment_2.5.c:17:16: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   17 |  else printf("%c is not an alphabet");
+      |               ~^
+      |                |
+      |                int
+..\Assignment_2.5.c:17:16: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+gcc -o C_Basics_Assignment_2.5.exe Assignment_2.5.o 
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+05:37:29 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.5.o "..\\Assignment_2.5.c" 
+..\Assignment_2.5.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main (){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.5.exe Assignment_2.5.o 
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+05:50:39 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+05:52:06 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.6
+05:56:04 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.6.c: In function 'main':
+..\Assignment_2.6.c:16:7: warning: 'number' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   16 |   sum += number;
+      |   ~~~~^~~~~~~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+05:57:32 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+05:58:47 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+05:59:19 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:01:09 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:01:43 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:02:41 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:03:35 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:06:47 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+06:07:07 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.6.o "..\\Assignment_2.6.c" 
+..\Assignment_2.6.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.6.exe Assignment_2.6.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+06:11:53 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.7.o "..\\Assignment_2.7.c" 
+..\Assignment_2.7.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.7.exe Assignment_2.7.o 
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+06:12:56 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.7.o "..\\Assignment_2.7.c" 
+..\Assignment_2.7.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.7.exe Assignment_2.7.o 
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+06:17:08 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.7.o "..\\Assignment_2.7.c" 
+..\Assignment_2.7.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.7.exe Assignment_2.7.o 
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_2.7
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:39:53 **** Rebuild of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:20:56: error: 'opernad_2' undeclared (first use in this function); did you mean 'operand_2'?
+   20 |  if(operator == '+') printf("%f + %f = %f", operand_1, opernad_2, operand_1+operand_2);
+      |                                                        ^~~~~~~~~
+      |                                                        operand_2
+..\Assignment_2.8.c:20:56: note: each undeclared identifier is reported only once for each function it appears in
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:40:45 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:41:57 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:49:18 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:28:2: error: expected '(' before 'case'
+   28 |  case:operator == '+'
+      |  ^~~~
+      |  (
+..\Assignment_2.8.c:28:7: warning: statement with no effect [-Wunused-value]
+   28 |  case:operator == '+'
+      |       ^~~~~~~~
+..\Assignment_2.8.c:31:6: error: expected expression before ':' token
+   31 |  case:operator == '-'
+      |      ^
+..\Assignment_2.8.c:31:2: error: case label not within a switch statement
+   31 |  case:operator == '-'
+      |  ^~~~
+..\Assignment_2.8.c:31:16: warning: statement with no effect [-Wunused-value]
+   31 |  case:operator == '-'
+      |       ~~~~~~~~~^~~~~~
+..\Assignment_2.8.c:31:22: error: expected ';' before 'printf'
+   31 |  case:operator == '-'
+      |                      ^
+      |                      ;
+   32 |    printf("%.2f - %.2f = %.2f", operand_1, operand_2, operand_1-operand_2);
+      |    ~~~~~~             
+..\Assignment_2.8.c:34:6: error: expected expression before ':' token
+   34 |  case:operator == '*'
+      |      ^
+..\Assignment_2.8.c:34:2: error: case label not within a switch statement
+   34 |  case:operator == '*'
+      |  ^~~~
+..\Assignment_2.8.c:34:16: warning: statement with no effect [-Wunused-value]
+   34 |  case:operator == '*'
+      |       ~~~~~~~~~^~~~~~
+..\Assignment_2.8.c:34:22: error: expected ';' before 'printf'
+   34 |  case:operator == '*'
+      |                      ^
+      |                      ;
+   35 |    printf("%.2f * %.2f = %.2f", operand_1, operand_2, operand_1*operand_2);
+      |    ~~~~~~             
+..\Assignment_2.8.c:37:6: error: expected expression before ':' token
+   37 |  case:operator == '/'
+      |      ^
+..\Assignment_2.8.c:37:2: error: case label not within a switch statement
+   37 |  case:operator == '/'
+      |  ^~~~
+..\Assignment_2.8.c:37:16: warning: statement with no effect [-Wunused-value]
+   37 |  case:operator == '/'
+      |       ~~~~~~~~~^~~~~~
+..\Assignment_2.8.c:37:22: error: expected ';' before 'printf'
+   37 |  case:operator == '/'
+      |                      ^
+      |                      ;
+   38 |    printf("%.2f / %.2f = %.2f", operand_1, operand_2, operand_1/operand_2);
+      |    ~~~~~~             
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:50:26 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: expected expression before ')' token
+   27 |  switch ()
+      |          ^
+..\Assignment_2.8.c:31:2: error: case label not within a switch statement
+   31 |  case operator == '-':
+      |  ^~~~
+..\Assignment_2.8.c:34:2: error: case label not within a switch statement
+   34 |  case operator == '*':
+      |  ^~~~
+..\Assignment_2.8.c:37:2: error: case label not within a switch statement
+   37 |  case operator == '/':
+      |  ^~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:50:50 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: expected expression before ')' token
+   27 |  switch ();
+      |          ^
+..\Assignment_2.8.c:28:2: error: case label not within a switch statement
+   28 |  case operator == '+':
+      |  ^~~~
+..\Assignment_2.8.c:31:2: error: case label not within a switch statement
+   31 |  case operator == '-':
+      |  ^~~~
+..\Assignment_2.8.c:34:2: error: case label not within a switch statement
+   34 |  case operator == '*':
+      |  ^~~~
+..\Assignment_2.8.c:37:2: error: case label not within a switch statement
+   37 |  case operator == '/':
+      |  ^~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:50:54 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: expected expression before ')' token
+   27 |  switch ()
+      |          ^
+..\Assignment_2.8.c:31:2: error: case label not within a switch statement
+   31 |  case operator == '-':
+      |  ^~~~
+..\Assignment_2.8.c:34:2: error: case label not within a switch statement
+   34 |  case operator == '*':
+      |  ^~~~
+..\Assignment_2.8.c:37:2: error: case label not within a switch statement
+   37 |  case operator == '/':
+      |  ^~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:52:24 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: expected expression before ')' token
+   27 |  switch (){
+      |          ^
+..\Assignment_2.8.c:28:16: error: expected expression before '==' token
+   28 |  case operator == '+':
+      |                ^~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:53:03 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: 'oprator' undeclared (first use in this function); did you mean 'operator'?
+   27 |  switch (oprator){
+      |          ^~~~~~~
+      |          operator
+..\Assignment_2.8.c:27:10: note: each undeclared identifier is reported only once for each function it appears in
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:53:14 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:28:2: error: case label does not reduce to an integer constant
+   28 |  case operator == '+':
+      |  ^~~~
+..\Assignment_2.8.c:31:2: error: case label does not reduce to an integer constant
+   31 |  case operator == '-':
+      |  ^~~~
+..\Assignment_2.8.c:34:2: error: case label does not reduce to an integer constant
+   34 |  case operator == '*':
+      |  ^~~~
+..\Assignment_2.8.c:37:2: error: case label does not reduce to an integer constant
+   37 |  case operator == '/':
+      |  ^~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:53:32 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:27:10: error: expected expression before ')' token
+   27 |  switch (){
+      |          ^
+..\Assignment_2.8.c:28:16: error: expected expression before '==' token
+   28 |  case operator == '+':
+      |                ^~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:53:53 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\Assignment_2.8.c: In function 'main':
+..\Assignment_2.8.c:31:2: error: case label does not reduce to an integer constant
+   31 |  case operator == '-':
+      |  ^~~~
+..\Assignment_2.8.c:34:2: error: case label does not reduce to an integer constant
+   34 |  case operator == '*':
+      |  ^~~~
+..\Assignment_2.8.c:37:2: error: case label does not reduce to an integer constant
+   37 |  case operator == '/':
+      |  ^~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:54:18 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:55:30 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+07:58:17 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:13:39 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\test.c: In function 'main':
+..\test.c:10:2: warning: statement with no effect [-Wunused-value]
+   10 |  2%-8;
+      |  ^
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o test.o 
+test.o: In function `main':
+D:\Courses\Embedded Systems Online\Embedded_GitHub\Unit_2_Workspace\C_Basics_Assignment_2.8\Debug/../test.c:9: multiple definition of `main'
+Assignment_2.8.o:D:\Courses\Embedded Systems Online\Embedded_GitHub\Unit_2_Workspace\C_Basics_Assignment_2.8\Debug/../Assignment_2.8.c:9: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:14:18 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\test.c: In function 'main':
+..\test.c:11:9: error: incompatible type for argument 1 of 'printf'
+   11 |  printf(x);
+      |         ^
+      |         |
+      |         float
+In file included from ..\test.c:8:
+c:\mingw\x86_64-w64-mingw32\include\stdio.h:380:48: note: expected 'const char * restrict' but argument is of type 'float'
+  380 |   int __cdecl printf(const char * __restrict__ _Format,...);
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+08:14:21 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\test.c: In function 'main':
+..\test.c:11:9: error: incompatible type for argument 1 of 'printf'
+   11 |  printf(x);
+      |         ^
+      |         |
+      |         float
+In file included from ..\test.c:8:
+c:\mingw\x86_64-w64-mingw32\include\stdio.h:380:48: note: expected 'const char * restrict' but argument is of type 'float'
+  380 |   int __cdecl printf(const char * __restrict__ _Format,...);
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:15:30 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o test.o 
+test.o: In function `main':
+D:\Courses\Embedded Systems Online\Embedded_GitHub\Unit_2_Workspace\C_Basics_Assignment_2.8\Debug/../test.c:9: multiple definition of `main'
+Assignment_2.8.o:D:\Courses\Embedded Systems Online\Embedded_GitHub\Unit_2_Workspace\C_Basics_Assignment_2.8\Debug/../Assignment_2.8.c:9: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:16:13 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:20:2: warning: "/*" within comment [-Wcomment]
+   20 |  /*
+      |   
+..\Assignment_2.8.c:27:2: error: expected identifier or '(' before 'switch'
+   27 |  switch (operator){
+      |  ^~~~~~
+..\Assignment_2.8.c:44:1: error: expected identifier or '(' before '}' token
+   44 | }
+      | ^
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:17:03 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:20:2: warning: "/*" within comment [-Wcomment]
+   20 |  /*
+      |   
+..\Assignment_2.8.c:26:1: error: unterminated comment
+   26 | /*
+      | ^
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+08:17:53 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o test.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+09:42:35 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o test.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+09:48:02 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+..\test.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+..\test.c: In function 'main':
+..\test.c:10:12: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+   10 |  int i = (1,2,3);
+      |            ^
+..\test.c:10:14: warning: left-hand operand of comma expression has no effect [-Wunused-value]
+   10 |  int i = (1,2,3);
+      |              ^
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o test.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+10:33:54 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:9:6: warning: return type of 'main' is not 'int' [-Wmain]
+    9 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+Info: Nothing to build for C_Basics_Assignment_2.8
+Info: Nothing to build for C_Basics_Assignment_1.1
+Info: Nothing to build for C_Basics_Assignment_1.2
+Info: Nothing to build for C_Basics_Assignment_1.3
+Info: Nothing to build for C_Basics_Assignment_1.4
+Info: Nothing to build for C_Basics_Assignment_1.5
+Info: Nothing to build for C_Basics_Assignment_1.6
+Info: Nothing to build for C_Basics_Assignment_2.1
+Info: Nothing to build for C_Basics_Assignment_2.2
+Info: Nothing to build for C_Basics_Assignment_2.3
+Info: Nothing to build for C_Basics_Assignment_2.4
+Info: Nothing to build for C_Basics_Assignment_2.5
+Info: Nothing to build for C_Basics_Assignment_2.6
+Info: Nothing to build for C_Basics_Assignment_2.7
+23:51:56 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+   10 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 

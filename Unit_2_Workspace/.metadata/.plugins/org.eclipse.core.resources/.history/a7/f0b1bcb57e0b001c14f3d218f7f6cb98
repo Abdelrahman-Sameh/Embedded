@@ -1,0 +1,25 @@
+/*
+ * Assignment_1.2.c
+ *
+ *  Created on: Sep 2, 2021
+ *      Author: abdel
+ */
+
+/*EX2:
+
+Write C Program to Print a Integer Entered by a User
+i should see the Console as following:
+##########Console-output###
+Enter a integer: 25
+You entered: 25
+###########################
+*/
+
+#include <stdio.h>
+int main(){
+	int x;
+	printf("Enter an Integer: \n");
+	fflush(stdin); fflush(stdout);
+	scanf("%d", x);
+	printf("You Entered: %d", x);
+}

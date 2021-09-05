@@ -1,0 +1,10 @@
+23:51:56 **** Incremental Build of configuration Debug for project C_Basics_Assignment_2.8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Assignment_2.8.o "..\\Assignment_2.8.c" 
+..\Assignment_2.8.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+   10 | void main(){
+      |      ^~~~
+gcc -o C_Basics_Assignment_2.8.exe Assignment_2.8.o 
+
+23:51:56 Build Finished. 0 errors, 1 warnings. (took 478ms)
+
