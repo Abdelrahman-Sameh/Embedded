@@ -5,6 +5,7 @@
  *      Author: abdel
  */
 
+// switch case usage
 #include <stdio.h>
 void main(){
 	char operator;

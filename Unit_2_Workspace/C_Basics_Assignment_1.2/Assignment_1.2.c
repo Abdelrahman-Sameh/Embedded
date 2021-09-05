@@ -13,13 +13,13 @@ i should see the Console as following:
 Enter a integer: 25
 You entered: 25
 ###########################
-*/
+ */
 
 #include <stdio.h>
-int main(){
-	int x;
+void main(){
+	int number;
 	printf("Enter an Integer: \n");
 	fflush(stdin); fflush(stdout);
-	scanf("%d", &x);
-	printf("You Entered: %d", x);
+	scanf("%d", &number);
+	printf("You Entered: %d", number);
 }

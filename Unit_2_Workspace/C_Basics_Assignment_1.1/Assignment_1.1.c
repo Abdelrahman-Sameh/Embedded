@@ -15,7 +15,7 @@ C Programming
  */
 
 #include <stdio.h>
-int main(){
+void main(){
 
 	printf("C Programming");
 
