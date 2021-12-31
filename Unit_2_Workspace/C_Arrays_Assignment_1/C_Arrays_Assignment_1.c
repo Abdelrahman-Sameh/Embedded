@@ -11,6 +11,7 @@ void main(){
 	float b[2][2];
 	int r,c;
 
+	/*
 	printf("Enter the elements of 1st matrix\n");
 	printf("Enter a11: \n");
 	fflush(stdin); fflush(stdout);
@@ -24,7 +25,17 @@ void main(){
 	printf("Enter a22: \n");
 	fflush(stdin); fflush(stdout);
 	scanf("%f", &a[1][1]);
+	 */
+	printf("Enter the elements of 1st matrix\n");
+	for(r=0; r<2; r++){
+		for(c=0; c<2; c++){
+			printf("Enter a%d%d:", r+1, c+1);
+			fflush(stdin);	fflush(stdout);
+			scanf("%f", &a[r][c]);
+		}
+	}
 
+	/*
 	printf("Enter the elements of 2nd matrix\n");
 	printf("Enter b11: \n");
 	fflush(stdin); fflush(stdout);
@@ -38,6 +49,15 @@ void main(){
 	printf("Enter b22: \n");
 	fflush(stdin); fflush(stdout);
 	scanf("%f", &b[1][1]);
+	 */
+	printf("Enter the elements of 2nd matrix\n");
+	for(r=0; r<2; r++){
+		for(c=0; c<2; c++){
+			printf("Enter b%d%d:", r+1, c+1);
+			fflush(stdin);	fflush(stdout);
+			scanf("%f", &b[r][c]);
+		}
+	}
 
 	printf("Sum of matrix\n");
 	for(r=0; r<2; r++){
